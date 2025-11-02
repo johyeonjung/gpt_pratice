@@ -1,4 +1,4 @@
-package pay;
+package com.korit.study.gpt.pay;
 
 public class CardPay implements PayStrategy{
     @Override

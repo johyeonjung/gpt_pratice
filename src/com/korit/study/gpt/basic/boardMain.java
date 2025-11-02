@@ -1,7 +1,4 @@
-package com.korit.study.basic;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.korit.study.gpt.basic;
 
 public class boardMain {
     public static void main(String[] args) {

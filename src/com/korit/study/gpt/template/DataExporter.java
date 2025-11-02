@@ -1,4 +1,4 @@
-package com.korit.study.template;
+package com.korit.study.gpt.template;
 
 public abstract class DataExporter {
     abstract void open();

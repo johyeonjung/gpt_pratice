@@ -1,4 +1,4 @@
-package com.korit.study.animal;
+package com.korit.study.gpt.animal;
 
 public class Cat extends Animal implements Soundable{
 

@@ -1,4 +1,4 @@
-package com.korit.study.basic;
+package com.korit.study.gpt.basic;
 
 public class Comment {
     String writerName;

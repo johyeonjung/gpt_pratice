@@ -1,4 +1,4 @@
-package com.korit.study.template;
+package com.korit.study.gpt.template;
 
 public class TemplateMain {
     public static void main(String[] args) {

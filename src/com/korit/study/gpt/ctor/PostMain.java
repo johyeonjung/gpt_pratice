@@ -1,4 +1,4 @@
-package com.korit.study.ctor;
+package com.korit.study.gpt.ctor;
 
 public class PostMain {
     public static void main(String[] args) {

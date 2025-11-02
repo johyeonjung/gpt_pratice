@@ -1,4 +1,4 @@
-package com.korit.study.animal;
+package com.korit.study.gpt.animal;
 
 import java.util.ArrayList;
 import java.util.List;

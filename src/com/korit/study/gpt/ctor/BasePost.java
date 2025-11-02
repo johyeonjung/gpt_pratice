@@ -1,4 +1,4 @@
-package com.korit.study.ctor;
+package com.korit.study.gpt.ctor;
 
 import java.time.LocalTime;
 

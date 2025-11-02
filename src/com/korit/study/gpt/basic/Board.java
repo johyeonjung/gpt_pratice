@@ -1,6 +1,5 @@
-package com.korit.study.basic;
+package com.korit.study.gpt.basic;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Board {

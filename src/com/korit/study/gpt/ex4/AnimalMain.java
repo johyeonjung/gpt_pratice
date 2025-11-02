@@ -1,4 +1,4 @@
-package com.korit.study.ex4;
+package com.korit.study.gpt.ex4;
 
 interface Animal {
     void sound();

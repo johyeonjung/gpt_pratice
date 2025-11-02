@@ -1,4 +1,4 @@
-package pay;
+package com.korit.study.gpt.pay;
 
 public class KaKaoPay implements PayStrategy {
     @Override

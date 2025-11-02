@@ -1,4 +1,4 @@
-package pay;
+package com.korit.study.gpt.pay;
 
 import com.korit.study.ch19.Car;
 
